@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Attri</h1>
 <h3 align="center">A passionate CyberSecurity Enthusiast from India.</h3>
 
-- 🔭 I’m currently working on [Haqware](haqware.in)
+- 🔭 I’m currently working on [Haqware](http://haqware.in)
 
 
 
